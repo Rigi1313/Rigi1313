@@ -1,8 +1,1 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.miladmehr.app",
-    "sha256_cert_fingerprints": ["11:75:DE:5C:9C:61:DA:21:48:F1:35:EE:79:06:8C:22:93:51:14:AA:C2:FA:BF:09:F0:B4:1B:E2:7B:EE:59:F8"]
-  }
-}]
+[ { "relation": ["delegate_permission/common.handle_all_urls"], "target": { "namespace": "android_app", "package_name": "mehraban.com.app", "sha256_cert_fingerprints": ["00:72:20:7F:BB:42:50:13:E4:C6:19:D6:D7:0C:EC:8B:8A:4E:B9:ED:8B:74:2F:8D:B3:2A:76:EC:D1:14:09:A9"] } } ]
